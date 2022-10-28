@@ -24,6 +24,9 @@ The classification  will be done using different models and we will compare the 
 3.   GCN based on adjacency and feature matrix multiply - inside a LR model:    **0.4887**
 4.   RNN with Learning embeddings by word2 vec:  **0.5279**
 
+![image](https://user-images.githubusercontent.com/73187207/198519190-6947c74d-5356-4416-9b53-295680db4dd6.png)
+
+
 #### RNN with Learning embeddings is the BEST!
 
 
